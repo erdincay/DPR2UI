@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mAincFg>
+<sTatIOn>
+<Name>南瑞 </Name>
+<ID>100</ID>
+<Addr>1</Addr>
+<CommType>1</CommType>
+<IP>127.0.0.1</IP>
+<Port>2408</Port>
+<Modem>4</Modem>
+<Phone>608</Phone>
+<Usr>dpr</Usr>
+<Pas>dpr</Pas>
+<dEv>
+<ID>1000</ID>
+<Addr>1</Addr>
+</dEv>
+</sTatIOn>
+</mAincFg>
